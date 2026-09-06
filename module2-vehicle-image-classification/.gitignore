@@ -1,0 +1,13 @@
+# Dataset and derived caches are not committed.
+data/VTID2/
+data/cache/
+*.npz
+
+# Notebook execution artefacts
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Generated evidence and results are reproducible from the notebooks.
+figures/*.png
+figures/labelling/
