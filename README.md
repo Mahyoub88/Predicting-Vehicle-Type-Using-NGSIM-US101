@@ -1,5 +1,7 @@
 # Predicting Vehicle Type Using NGSIM US-101
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23033235.svg)](https://doi.org/10.5281/zenodo.23033235)
+
 ## Overview
 
 This project applies supervised machine learning techniques to classify vehicle types using the NGSIM US-101 trajectory dataset.
