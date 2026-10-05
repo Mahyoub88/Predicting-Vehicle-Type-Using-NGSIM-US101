@@ -1,5 +1,13 @@
 # Predicting Vehicle Type Using NGSIM US-101
 
+## Illustrated engineering guide
+
+[Read the full engineering guide](docs/engineering-guide.md) for architecture, workflow, design rationale, evidence notes and the source gallery.
+
+![Engineering overview](docs/overview/architecture.svg)
+
+*Explanatory diagram added for this write-up.*
+
 **Project author and sole implementer:** Mohammed Mahyoub.
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23033235.svg)](https://doi.org/10.5281/zenodo.23033235)
