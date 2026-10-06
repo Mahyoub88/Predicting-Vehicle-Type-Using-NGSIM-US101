@@ -97,3 +97,11 @@ University of the West of England (UWE Bristol)
 ## License
 
 This repository is intended for educational and academic purposes.
+
+## Illustrated project pages
+
+Project-specific diagrams, source media and implementation context:
+
+- [Vehicle Type Classification Using NGSIM US-101](https://mahyoub88.github.io/projects/proj-ngsim/)
+
+[Browse all engineering case studies](https://mahyoub88.github.io/projects/)
