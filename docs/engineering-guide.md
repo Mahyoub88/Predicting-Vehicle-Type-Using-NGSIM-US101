@@ -39,66 +39,66 @@ The following are suggested review checks. A checklist entry is not a claimed pa
 
 ## Source gallery
 
-![notebook figure 01 — embedded output extracted from the public notebook; retain the notebook context](overview/notebook-figure-01.png)
+![Vehicle length — distribution and boxplot. Explore the spread and extreme values before fitting a classifier. Source: published notebook output 1.](overview/notebook-figure-01.png)
 
-*notebook figure 01 — embedded output extracted from the public notebook; retain the notebook context.*
+*Vehicle length — distribution and boxplot. Explore the spread and extreme values before fitting a classifier. Source: published notebook output 1..*
 
-![notebook figure 02 — embedded output extracted from the public notebook; retain the notebook context](overview/notebook-figure-02.png)
+![Vehicle width — distribution and boxplot. Inspect this physical feature alongside length when interpreting class separation. Source: published notebook output 2.](overview/notebook-figure-02.png)
 
-*notebook figure 02 — embedded output extracted from the public notebook; retain the notebook context.*
+*Vehicle width — distribution and boxplot. Inspect this physical feature alongside length when interpreting class separation. Source: published notebook output 2..*
 
-![notebook figure 03 — embedded output extracted from the public notebook; retain the notebook context](overview/notebook-figure-03.png)
+![Vehicle speed — distribution and boxplot. Summarised vehicle-level speeds describe the traffic conditions represented in the dataset. Source: published notebook output 3.](overview/notebook-figure-03.png)
 
-*notebook figure 03 — embedded output extracted from the public notebook; retain the notebook context.*
+*Vehicle speed — distribution and boxplot. Summarised vehicle-level speeds describe the traffic conditions represented in the dataset. Source: published notebook output 3..*
 
-![notebook figure 04 — embedded output extracted from the public notebook; retain the notebook context](overview/notebook-figure-04.png)
+![Vehicle acceleration — distribution and boxplot. Review the range of aggregated acceleration values and their outliers. Source: published notebook output 4.](overview/notebook-figure-04.png)
 
-*notebook figure 04 — embedded output extracted from the public notebook; retain the notebook context.*
+*Vehicle acceleration — distribution and boxplot. Review the range of aggregated acceleration values and their outliers. Source: published notebook output 4..*
 
-![notebook figure 05 — embedded output extracted from the public notebook; retain the notebook context](overview/notebook-figure-05.png)
+![Space headway — distribution and boxplot. Examine spacing between vehicles as a traffic-context variable. Source: published notebook output 5.](overview/notebook-figure-05.png)
 
-*notebook figure 05 — embedded output extracted from the public notebook; retain the notebook context.*
+*Space headway — distribution and boxplot. Examine spacing between vehicles as a traffic-context variable. Source: published notebook output 5..*
 
-![notebook figure 06 — embedded output extracted from the public notebook; retain the notebook context](overview/notebook-figure-06.png)
+![Vehicle-class distribution. Counts and proportions reveal class imbalance, which matters when interpreting overall accuracy. Source: published notebook output 6.](overview/notebook-figure-06.png)
 
-*notebook figure 06 — embedded output extracted from the public notebook; retain the notebook context.*
+*Vehicle-class distribution. Counts and proportions reveal class imbalance, which matters when interpreting overall accuracy. Source: published notebook output 6..*
 
-![notebook figure 07 — embedded output extracted from the public notebook; retain the notebook context](overview/notebook-figure-07.png)
+![Vehicle-level correlation matrix. Compare relationships between predictors; correlation alone does not establish causation. Source: published notebook output 7.](overview/notebook-figure-07.png)
 
-*notebook figure 07 — embedded output extracted from the public notebook; retain the notebook context.*
+*Vehicle-level correlation matrix. Compare relationships between predictors; correlation alone does not establish causation. Source: published notebook output 7..*
 
-![notebook figure 08 — embedded output extracted from the public notebook; retain the notebook context](overview/notebook-figure-08.png)
+![Decision tree — top three levels. The figure explains early decision paths; the trained model extends beyond the depth shown. Source: published notebook output 8.](overview/notebook-figure-08.png)
 
-*notebook figure 08 — embedded output extracted from the public notebook; retain the notebook context.*
+*Decision tree — top three levels. The figure explains early decision paths; the trained model extends beyond the depth shown. Source: published notebook output 8..*
 
-![notebook figure 09 — embedded output extracted from the public notebook; retain the notebook context](overview/notebook-figure-09.png)
+![Logistic Regression confusion matrix. Read the classwise errors rather than relying on a single aggregate score. Source: published notebook output 9.](overview/notebook-figure-09.png)
 
-*notebook figure 09 — embedded output extracted from the public notebook; retain the notebook context.*
+*Logistic Regression confusion matrix. Read the classwise errors rather than relying on a single aggregate score. Source: published notebook output 9..*
 
-![notebook figure 10 — embedded output extracted from the public notebook; retain the notebook context](overview/notebook-figure-10.png)
+![Decision Tree confusion matrix. Compare which classes are confused against the other classifiers on the same evaluation split. Source: published notebook output 10.](overview/notebook-figure-10.png)
 
-*notebook figure 10 — embedded output extracted from the public notebook; retain the notebook context.*
+*Decision Tree confusion matrix. Compare which classes are confused against the other classifiers on the same evaluation split. Source: published notebook output 10..*
 
-![notebook figure 11 — embedded output extracted from the public notebook; retain the notebook context](overview/notebook-figure-11.png)
+![Random Forest confusion matrix. Inspect error counts for motorcycles, passenger cars and trucks. Source: published notebook output 11.](overview/notebook-figure-11.png)
 
-*notebook figure 11 — embedded output extracted from the public notebook; retain the notebook context.*
+*Random Forest confusion matrix. Inspect error counts for motorcycles, passenger cars and trucks. Source: published notebook output 11..*
 
-![notebook figure 12 — embedded output extracted from the public notebook; retain the notebook context](overview/notebook-figure-12.png)
+![Model-score comparison. Read the reported metrics together; the displayed vertical scale starts at 0.85. Source: published notebook output 12.](overview/notebook-figure-12.png)
 
-*notebook figure 12 — embedded output extracted from the public notebook; retain the notebook context.*
+*Model-score comparison. Read the reported metrics together; the displayed vertical scale starts at 0.85. Source: published notebook output 12..*
 
-![notebook figure 13 — embedded output extracted from the public notebook; retain the notebook context](overview/notebook-figure-13.png)
+![Decision Tree and Random Forest feature importance. These values describe how the fitted models use the available features. Source: published notebook output 13.](overview/notebook-figure-13.png)
 
-*notebook figure 13 — embedded output extracted from the public notebook; retain the notebook context.*
+*Decision Tree and Random Forest feature importance. These values describe how the fitted models use the available features. Source: published notebook output 13..*
 
-![notebook figure 14 — embedded output extracted from the public notebook; retain the notebook context](overview/notebook-figure-14.png)
+![Vehicle length versus width by class. This view shows physical-feature separation and helps contextualise the classification task. Source: published notebook output 14.](overview/notebook-figure-14.png)
 
-*notebook figure 14 — embedded output extracted from the public notebook; retain the notebook context.*
+*Vehicle length versus width by class. This view shows physical-feature separation and helps contextualise the classification task. Source: published notebook output 14..*
 
 
 ## Sources and provenance
 
-- [Published portfolio description](https://mahyoub88.github.io/#proj-ngsim).
+- [Published portfolio description](https://mahyoub88.github.io/projects/proj-ngsim/).
 - [Project README](../README.md) and existing repository files.
 - [LinkedIn projects](https://www.linkedin.com/in/mohammed-mahyoub/details/projects/): supplementary descriptions and project media.
 - New SVG figures and explanatory text were authored for this documentation update; they are not original photographs or new measured results.
